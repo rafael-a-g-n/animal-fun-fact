@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animal-fun-fact/static/css/main.53d8c31f.css",
+    "main.js": "/animal-fun-fact/static/js/main.34406620.js",
+    "index.html": "/animal-fun-fact/index.html",
+    "main.53d8c31f.css.map": "/animal-fun-fact/static/css/main.53d8c31f.css.map",
+    "main.34406620.js.map": "/animal-fun-fact/static/js/main.34406620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d8c31f.css",
+    "static/js/main.34406620.js"
+  ]
+}
