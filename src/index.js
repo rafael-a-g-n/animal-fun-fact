@@ -7,7 +7,11 @@ const container = document.getElementById("app");
 const root = createRoot(container);
 const title = "";
 const background = (
-  <img className="background" alt="ocean" src="/images/ocean.jpg" />
+  <img
+    className="background"
+    alt="ocean"
+    src="/animal-fun-fact/images/ocean.jpg"
+  />
 );
 
 const showBackground = true;
