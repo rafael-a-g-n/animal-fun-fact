@@ -10,7 +10,7 @@ const background = (
   <img
     className="background"
     alt="ocean"
-    src="/animal-fun-fact/images/ocean.jpg"
+    src="./images/ocean.jpg"
   />
 );
 
