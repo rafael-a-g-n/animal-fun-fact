@@ -1,0 +1,45 @@
+export const animals = {
+  dolphin: {
+    image: "/images/dolphin.png",
+    facts: [
+      "Dolphins have been shown to give distinct names to each other!",
+      "Dolphins are known to display their own culture!",
+      "Dolphins have two stomachs!",
+      "Dolphins have acute eyesight both in and out of the water!",
+      "Dolphins can jump as high as 20 feet out of the water!",
+      "The orca, or killer whale, is actually a type of dolphin.",
+      "Dolphins are known for their playful behavior!",
+      "Dolphins use echolocation to find prey!",
+      "Dolphins are very social animals!",
+    ],
+  },
+  lobster: {
+    image: "/images/lobster.png",
+    facts: [
+      "Lobsters taste with their legs!",
+      "Lobsters chew with their stomachs!",
+      "Lobsters can live as long as 100 years.",
+      "Lobsters can be right-clawed or left-clawed.",
+      "Lobsters can regenerate lost limbs.",
+      "Lobsters migrate in the winter.",
+      "Lobsters are cannibals.",
+      "Lobsters are 10-legged crustaceans.",
+      "Lobsters have teeth in their stomachs.",
+    ],
+  },
+  starfish: {
+    image: "/images/starfish.png",
+    facts: [
+      "Starfish can have up to 40 arms!",
+      "Starfish have no brain and no blood!",
+      "Starfish can regenerate their own arms!",
+      "Starfish are found in every ocean!",
+      "Starfish can move at a speed of 0.03 mph!",
+      "Starfish can weigh up to 11 pounds!",
+      "Starfish have eyes at the end of each arm!",
+      "Starfish can live up to 35 years!",
+      "Starfish are related to sea urchins and sand dollars.",
+      "Starfish are invertebrates.",
+    ],
+  },
+};
